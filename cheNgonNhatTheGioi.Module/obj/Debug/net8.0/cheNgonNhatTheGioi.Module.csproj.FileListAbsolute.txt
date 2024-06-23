@@ -1,0 +1,12 @@
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\bin\Debug\net8.0\cheNgonNhatTheGioi.Module.deps.json
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\bin\Debug\net8.0\cheNgonNhatTheGioi.Module.dll
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\bin\Debug\net8.0\cheNgonNhatTheGioi.Module.pdb
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\obj\Debug\net8.0\cheNgonNhatTheGioi.Module.csproj.AssemblyReference.cache
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\obj\Debug\net8.0\cheNgonNhatTheGioi.Module.GeneratedMSBuildEditorConfig.editorconfig
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\obj\Debug\net8.0\cheNgonNhatTheGioi.Module.AssemblyInfoInputs.cache
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\obj\Debug\net8.0\cheNgonNhatTheGioi.Module.AssemblyInfo.cs
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\obj\Debug\net8.0\cheNgonNhatTheGioi.Module.csproj.CoreCompileInputs.cache
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\obj\Debug\net8.0\cheNgonNhatTheGioi.Module.dll
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\obj\Debug\net8.0\refint\cheNgonNhatTheGioi.Module.dll
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\obj\Debug\net8.0\cheNgonNhatTheGioi.Module.pdb
+F:\CNPM\cheNgonNhatTheGioi\cheNgonNhatTheGioi.Module\obj\Debug\net8.0\ref\cheNgonNhatTheGioi.Module.dll

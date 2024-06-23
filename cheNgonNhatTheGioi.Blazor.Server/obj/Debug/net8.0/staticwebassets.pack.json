@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\CNPM\\chengonnhatthegioi\\cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\CNPM\\chengonnhatthegioi\\cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\CNPM\\chengonnhatthegioi\\cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\favicon2.ico",
+      "PackagePath": "staticwebassets\\favicon2.ico"
+    },
+    {
+      "Id": "F:\\CNPM\\chengonnhatthegioi\\cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\images\\200w.gif",
+      "PackagePath": "staticwebassets\\images\\200w.gif"
+    },
+    {
+      "Id": "F:\\CNPM\\chengonnhatthegioi\\cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\Logo.svg"
+    },
+    {
+      "Id": "F:\\CNPM\\chengonnhatthegioi\\cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "PackagePath": "staticwebassets\\images\\SplashScreen.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.cheNgonNhatTheGioi.Blazor.Server.props",
+      "PackagePath": "build\\cheNgonNhatTheGioi.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.cheNgonNhatTheGioi.Blazor.Server.props",
+      "PackagePath": "buildMultiTargeting\\cheNgonNhatTheGioi.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.cheNgonNhatTheGioi.Blazor.Server.props",
+      "PackagePath": "buildTransitive\\cheNgonNhatTheGioi.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.cheNgonNhatTheGioi.Blazor.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

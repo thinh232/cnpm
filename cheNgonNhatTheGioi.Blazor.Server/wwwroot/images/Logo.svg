@@ -1,0 +1,18 @@
+	<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+		 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:#FF5733;}
+		.st1{fill:#FFC300;}
+		.st2{fill:#DAF7A6;}
+		.st3{font-family:'Arial';}
+		.st4{font-size:100px;}
+		.st5{fill:#FFD700;}
+	</style>
+	<polygon class="st0" points="100,10 117.4,60.5 170.4,60.5 126.2,95.3 143.6,145.1 100,115.3 56.4,145.1 73.8,95.3 29.6,60.5 82.6,60.5"/>
+	<polygon class="st5" points="20,30 25,40 35,40 28,48 32,58 20,52 8,58 12,48 5,40 15,40"/>
+	<polygon class="st5" points="180,30 185,40 195,40 188,48 192,58 180,52 168,58 172,48 165,40 175,40"/>
+	<polygon class="st5" points="50,170 55,180 65,180 58,188 62,198 50,192 38,198 42,188 35,180 45,180"/>
+	<polygon class="st5" points="150,170 155,180 165,180 158,188 162,198 150,192 138,198 142,188 135,180 145,180"/>
+	<polygon class="st5" points="100,190 105,200 115,200 108,208 112,218 100,212 88,218 92,208 85,200 95,200"/>
+	<text x="50%" y="60%" text-anchor="middle" class="st1 st3 st4">Chè Thái</text>
+	</svg>
