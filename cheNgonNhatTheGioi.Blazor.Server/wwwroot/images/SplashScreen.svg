@@ -1,0 +1,17 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 30" style="enable-background:new 0 0 50 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF5733;}
+	.st1{fill:#FFC300;}
+	.st2{fill:#DAF7A6;}
+	.st3{fill:#900C3F;}
+	.st4{fill:#C70039;}
+	.st5{fill:#581845;}
+</style>
+<circle class="st0" cx="15" cy="15" r="10"/>
+<circle class="st1" cx="35" cy="15" r="10"/>
+<polygon class="st2" points="25,0 27,10 35,10 28,15 30,25 25,20 20,25 22,15 15,10 23,10 "/>
+<rect x="20" y="10" class="st3" width="10" height="10"/>
+<ellipse class="st4" cx="25" cy="15" rx="5" ry="3"/>
+<line class="st5" x1="0" y1="30" x2="50" y2="0" stroke-width="2"/>
+</svg>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="cheNgonNhatTheGioi">
+  <BOModel>
+    <Class Name="cheNgonNhatTheGioi.Module.BusinessObjects.classChe.DanhMuc" Caption="Danh Mục Chè">
+      <OwnMembers>
+        <Member Name="madanhmuc" Caption="id danh mục" />
+        <Member Name="tendanhmuc" Caption="Tên danh mục" />
+      </OwnMembers>
+    </Class>
+    <Class Name="cheNgonNhatTheGioi.Module.BusinessObjects.classChe.DonHang" Caption="Đơn Hàng">
+      <OwnMembers>
+        <Member Name="diachi" Caption="Địa chỉ" />
+        <Member Name="emailKh" Caption="Email" />
+        <Member Name="madonhang" Caption="id đơn hàng" />
+        <Member Name="mota" Caption="Mô tả" />
+        <Member Name="sdt" Caption="Số điện thoại" />
+        <Member Name="soluong" Caption="Số lượng" />
+        <Member Name="tenkhachhang" Caption="Tên khách hàng" />
+        <Member Name="ThanhToans" Caption="Thanh Toán" />
+        <Member Name="tongtien" Caption="Tổng Tiền" />
+        <Member Name="trangthai" Caption="Trạng thái" />
+      </OwnMembers>
+    </Class>
+    <Class Name="cheNgonNhatTheGioi.Module.BusinessObjects.classChe.KhachHang" Caption="Khách Hàng">
+      <OwnMembers>
+        <Member Name="diachi" Caption="Địa chỉ" />
+        <Member Name="DonHangs" Caption="Đơn Hàng" />
+        <Member Name="emailkh" Caption="Email" />
+        <Member Name="makh" Caption="id Khách Hàng" />
+        <Member Name="sdt" Caption="Số điện thoại" />
+        <Member Name="tenkh" Caption="Tên khách hàng" />
+      </OwnMembers>
+    </Class>
+    <Class Name="cheNgonNhatTheGioi.Module.BusinessObjects.classChe.NhaCungCap" Caption="Nhà Cung cấp">
+      <OwnMembers>
+        <Member Name="diachi" Caption="Địa chỉ" />
+        <Member Name="email" Caption="Email" />
+        <Member Name="mancc" Caption="id nhà cung cấp" />
+        <Member Name="SanPhams" Caption="Sản Phẩm" />
+        <Member Name="sdt" Caption="Số điện thoại" />
+        <Member Name="tenncc" Caption="Tên nhà cung cấp" />
+      </OwnMembers>
+    </Class>
+    <Class Name="cheNgonNhatTheGioi.Module.BusinessObjects.classChe.Oders">
+      <OwnMembers>
+        <Member Name="madonhang" Caption="id đơn hàng" />
+        <Member Name="masp" Caption="id sản phẩm" />
+        <Member Name="soluong" Caption="Số lượng" />
+      </OwnMembers>
+    </Class>
+    <Class Name="cheNgonNhatTheGioi.Module.BusinessObjects.classChe.SanPham" Caption="Sản Phẩm">
+      <OwnMembers>
+        <Member Name="anhsp" Caption="Hình ảnh" />
+        <Member Name="chitietsp" Caption="Chi tiết" />
+        <Member Name="dvt" Caption="Đơn Vị tính" />
+        <Member Name="giasp" Caption="Giá" />
+        <Member Name="id_dm" Caption="id_ Danh Mục" />
+        <Member Name="masp" Caption="id sản phẩm" />
+        <Member Name="motasp" Caption="Mô tả" />
+        <Member Name="ngaydangsp" Caption="Ngày đăng" />
+        <Member Name="nhasanxuat" Caption="Nhà cung cấp" />
+        <Member Name="tensp" Caption="Tên sản phẩm" />
+      </OwnMembers>
+    </Class>
+    <Class Name="cheNgonNhatTheGioi.Module.BusinessObjects.classChe.ThanhToan" Caption="Thanh Toán">
+      <OwnMembers>
+        <Member Name="madonhang" Caption="id đơn hàng" />
+        <Member Name="mathanhtoan" Caption="id thanh toán" />
+        <Member Name="ptthanhtoan" Caption="Phương thức thanh toán" />
+        <Member Name="sotien" Caption="Tổng số tiền" />
+        <Member Name="thoigian" Caption="Thời gian" />
+      </OwnMembers>
+    </Class>
+    <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
+  </BOModel>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.1.3.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="ApplicationUser_ListView" Caption="Users" />
+  </Views>
+</Application>

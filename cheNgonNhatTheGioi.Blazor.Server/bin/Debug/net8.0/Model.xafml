@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="Chè Ngon">
+  <NavigationItems NavigationStyle="Accordion" />
+  <Options UIType="TabbedMDI" RestoreTabbedMdiLayout="False" ShowTabImage="True" />
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.1.3.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="DanhMuc_ListView" NewItemRowPosition="Top" AllowEdit="True" />
+    <ListView Id="DonHang_ListView" AllowEdit="True" ShowAllRows="False" NewItemRowPosition="Top" />
+    <ListView Id="KhachHang_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+    <ListView Id="NhaCungCap_ListView" NewItemRowPosition="Top" AllowEdit="True" />
+    <ListView Id="Oders_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+    <ListView Id="SanPham_ListView" AllowEdit="True" NewItemRowPosition="Top" IsFooterVisible="True">
+      <Columns>
+        <ColumnInfo Id="giasp" SortIndex="0" SortOrder="Ascending">
+          <Summary>
+            <ColumnSummaryItem Id="Summary0" SummaryType="Sum" IsNewNode="True" />
+          </Summary>
+        </ColumnInfo>
+      </Columns>
+    </ListView>
+    <ListView Id="ThanhToan_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+  </Views>
+</Application>

@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CNPM\\cheNgonNhatTheGioi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\model.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\model.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\donhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\donhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\danhmuc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\danhmuc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\nhacungcap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\nhacungcap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\wwwroot\\images\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\wwwroot\\images\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\businessobjects\\classchecode\\khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\businessobjects\\classchecode\\khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\blazormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\blazormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}",
+      "RelativeMoniker": "D:0:0:{26BB2043-E819-453A-92B6-B69D2D72AEF5}|cheNgonNhatTheGioi.Module\\cheNgonNhatTheGioi.Module.csproj|solutionrelative:chengonnhatthegioi.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\chengonnhatthegioi.blazor.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\chengonnhatthegioi.blazor.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\services\\proxyhubconnectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\services\\proxyhubconnectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|f:\\cnpm\\chengonnhatthegioi\\chengonnhatthegioi.blazor.server\\services\\circuithandlerproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5F6C0C-2988-469F-A952-FCB81D7230B1}|cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj|solutionrelative:chengonnhatthegioi.blazor.server\\services\\circuithandlerproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DonHang.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DonHang.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DonHang.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:28:43.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonHang.Designer.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DonHang.Designer.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DonHang.Designer.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DonHang.Designer.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DonHang.Designer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:28:45.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Startup.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\Startup.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Startup.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\Startup.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wCUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:48:57.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThanhToan.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\ThanhToan.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\ThanhToan.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\ThanhToan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:28:21.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DanhMuc.Designer.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DanhMuc.Designer.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DanhMuc.Designer.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DanhMuc.Designer.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DanhMuc.Designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:36:27.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\KhachHang.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\KhachHang.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\KhachHang.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\KhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:38:39.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model.xafml",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Model.xafml",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\Model.xafml",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Model.xafml",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\Model.xafml",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALTSURBVDhPpZNbSFRRFIb/fS6eOaM52jgy1lhqmdpINyIogih7qB566KGCxMaXQrAeeqoIKhGCgkCQoh6KwoKaqMxCNIioTBCyi6Y1FU05jtNlbI7j3M5tt0eHwOqpPticzd5r/XutxX/wX1BKM7t/h2S\u002BM6B0RzHik9ughT0gYgiS4wwkvosQr5oJ\u002BcUMAXpxb4mxXtlKXL4DnKbOh84q5NkFxyMeyHl4n3Me/VFqvKon7ZHpDCZAWzZJyMqtQVypx2R0rW5L2M0VSVFcIoDMIkh9A4YGVDzTVYSXWie4HOljnlBwRSQWb73c7if09IbHiEXXwtCZHAeYbMGEVjCOH9UC7o/H4V8ugBbL4DUDVKNIT06WrQHZnN1KAo2LaZEzG5yQrtWEHlUwPGbiibwOI2vqEJk9iFnl55DnGIMo57JHRPACRWgwhQFvvJ/07qo07VaOOAstCCopPDLdeOneg4nSmnSL4A22zE\u002BQbedhX9gBSU7C16Vi6G4CZop/QPo81TFeT1nVRAw3XB6EtjRBtvAgiamCpkh3li47EW6DHjsIX2cKECkKC5xXOSJZA4auQ\u002BA5xFUNYd8wzHEFosiGL7A4K9PRo3jffRVv73UjFeXBZQGGqWKuY947zlZWsYfLznsDU4MtGUZyPIixwV4oo37Wq8kEn6P/UhM\u002B99xhM5iEoWnQVQNlrsq2Mlf52SkfDJ/YXWL4X5y5FS3d/KCyARJT5wQJekLBSF8HqK6BmlY43CHkz3k\u002BkRNZdFxf5Wjxbvcav4w0dqo2\u002B7ZaVXtdXXaWpwaxWKyIjLxmFfSB8AIzpobV6wo7F1QFDzXXXX\u002BZSfvTynWtT/d\u002B//7tpMFJuYmvH/BlqIedEjjy829t2rhy35EGz\u002Bh05DRp18zgcuOac\u002B5ix1Y5ixtKplQQAs1dseBwUbV95\u002B/Jaf76M6XZf6G3PPjB18wrH29eaz12LXP8G8BPoRwphdwLay4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-22T06:43:45.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DanhMuc.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DanhMuc.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\DanhMuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:36:11.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\SanPham.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\SanPham.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\SanPham.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:27:44.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPham.Designer.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\SanPham.Designer.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\SanPham.Designer.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\SanPham.Designer.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\SanPham.Designer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:06:45.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\NhaCungCap.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\NhaCungCap.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\NhaCungCap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:38:07.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NhaCungCap.Designer.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\NhaCungCap.Designer.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\NhaCungCap.Designer.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\NhaCungCap.Designer.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\NhaCungCap.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:38:01.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\Pages\\_Host.cshtml",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T07:01:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-22T09:37:46.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logo.svg",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\images\\Logo.svg",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\images\\Logo.svg",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\images\\Logo.svg",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\wwwroot\\images\\Logo.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-22T07:37:56.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachHang.Designer.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\KhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\KhachHang.Designer.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\KhachHang.Designer.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\BusinessObjects\\classCheCode\\KhachHang.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:38:41.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\_Imports.razor",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\_Imports.razor",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\_Imports.razor",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T07:16:31.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.razor",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\App.razor",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\App.razor",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\App.razor",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T09:54:09.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BlazorApplication.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\BlazorApplication.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\BlazorApplication.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\BlazorApplication.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\BlazorApplication.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:48:41.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlazorModule.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\BlazorModule.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\BlazorModule.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\BlazorModule.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\BlazorModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:48:47.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Program.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\Program.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Program.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:48:52.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Model.DesignedDiffs.xafml",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\Model.DesignedDiffs.xafml",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Module\\Model.DesignedDiffs.xafml",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Module\\Model.DesignedDiffs.xafml",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Module\\Model.DesignedDiffs.xafml",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALTSURBVDhPpZNbSFRRFIb/fS6eOaM52jgy1lhqmdpINyIogih7qB566KGCxMaXQrAeeqoIKhGCgkCQoh6KwoKaqMxCNIioTBCyi6Y1FU05jtNlbI7j3M5tt0eHwOqpPticzd5r/XutxX/wX1BKM7t/h2S\u002BM6B0RzHik9ughT0gYgiS4wwkvosQr5oJ\u002BcUMAXpxb4mxXtlKXL4DnKbOh84q5NkFxyMeyHl4n3Me/VFqvKon7ZHpDCZAWzZJyMqtQVypx2R0rW5L2M0VSVFcIoDMIkh9A4YGVDzTVYSXWie4HOljnlBwRSQWb73c7if09IbHiEXXwtCZHAeYbMGEVjCOH9UC7o/H4V8ugBbL4DUDVKNIT06WrQHZnN1KAo2LaZEzG5yQrtWEHlUwPGbiibwOI2vqEJk9iFnl55DnGIMo57JHRPACRWgwhQFvvJ/07qo07VaOOAstCCopPDLdeOneg4nSmnSL4A22zE\u002BQbedhX9gBSU7C16Vi6G4CZop/QPo81TFeT1nVRAw3XB6EtjRBtvAgiamCpkh3li47EW6DHjsIX2cKECkKC5xXOSJZA4auQ\u002BA5xFUNYd8wzHEFosiGL7A4K9PRo3jffRVv73UjFeXBZQGGqWKuY947zlZWsYfLznsDU4MtGUZyPIixwV4oo37Wq8kEn6P/UhM\u002B99xhM5iEoWnQVQNlrsq2Mlf52SkfDJ/YXWL4X5y5FS3d/KCyARJT5wQJekLBSF8HqK6BmlY43CHkz3k\u002BkRNZdFxf5Wjxbvcav4w0dqo2\u002B7ZaVXtdXXaWpwaxWKyIjLxmFfSB8AIzpobV6wo7F1QFDzXXXX\u002BZSfvTynWtT/d\u002B//7tpMFJuYmvH/BlqIedEjjy829t2rhy35EGz\u002Bh05DRp18zgcuOac\u002B5ix1Y5ixtKplQQAs1dseBwUbV95\u002B/Jaf76M6XZf6G3PPjB18wrH29eaz12LXP8G8BPoRwphdwLay4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-22T06:57:36.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "cheNgonNhatTheGioi.Blazor.Server.csproj",
+              "DocumentMoniker": "F:\\CNPM\\chengonnhatthegioi\\cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj",
+              "ToolTip": "F:\\CNPM\\chengonnhatthegioi\\cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\cheNgonNhatTheGioi.Blazor.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T06:41:43.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\appsettings.json",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\appsettings.json",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\appsettings.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T09:54:16.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProxyHubConnectionHandler.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Services\\ProxyHubConnectionHandler.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\Services\\ProxyHubConnectionHandler.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Services\\ProxyHubConnectionHandler.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\Services\\ProxyHubConnectionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:54:01.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CircuitHandlerProxy.cs",
+              "DocumentMoniker": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Services\\CircuitHandlerProxy.cs",
+              "RelativeDocumentMoniker": "cheNgonNhatTheGioi.Blazor.Server\\Services\\CircuitHandlerProxy.cs",
+              "ToolTip": "F:\\CNPM\\cheNgonNhatTheGioi\\cheNgonNhatTheGioi.Blazor.Server\\Services\\CircuitHandlerProxy.cs",
+              "RelativeToolTip": "cheNgonNhatTheGioi.Blazor.Server\\Services\\CircuitHandlerProxy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:53:56.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
